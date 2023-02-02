@@ -5,3 +5,5 @@ function kleur_aanpassen(){
     title.innerText = "Dit is een titel";
     title.style.color = "red";
 }
+
+kleur_aanpassen();
