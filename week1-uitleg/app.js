@@ -1,4 +1,5 @@
 let text = Document.getElementById("change");
+//document niet met een hoofdletter
 
 
 text.style.color = "red";
