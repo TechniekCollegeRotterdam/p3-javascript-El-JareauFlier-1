@@ -3,7 +3,7 @@ let budget = 100
 let product = 60
 let ifelse = document.getElementById("ifelse")
 
-function canOrcant() {
+function saldo() {
     if (product <= budget) {
 
         ifelse.innerText = "U heeft genoeg geld!";
@@ -16,4 +16,4 @@ function canOrcant() {
     }
 }
 
-canOrcant()
+saldo()
