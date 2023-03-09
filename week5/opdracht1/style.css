@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    position: absolute;
+    color: white;
+    background-color: black;
+    width: 20vw;
+    height: 100vh;
+    left: -20%;
+    transition: 1s all;
+}
+
+nav p{}
+
+.sidebar{
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 0%;
+}
