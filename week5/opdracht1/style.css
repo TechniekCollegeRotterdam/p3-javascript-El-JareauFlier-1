@@ -13,7 +13,10 @@ nav{
     transition: 1s all;
 }
 
-nav p{}
+nav p{
+    margin: 2vw auto;
+
+}
 
 .sidebar{
     background-color: rgb(0, 0, 0);
