@@ -6,7 +6,7 @@ opdr1.innerText = 'opdracht 1: ' +'er zitten ' + winkelmand.length + ' in uw win
 
 //opdracht 2
 let opdr2 = document.getElementById('opdr2');
-opdr2.innerText = 'opdracht 2: ' + 'uw producten zijn: ' + winkelmand;;
+opdr2.innerText = 'opdracht 2: ' + 'uw producten zijn: ' + winkelmand;
 
 //opdracht 3
 let opdr3 = document.getElementById('opdr3');
