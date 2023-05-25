@@ -27,6 +27,12 @@
         "img": "./img/profile5.jpg",
         "name": "human5",
         "age": "22"
+    },
+
+    {
+        "img": "./img/profile2.jpg",
+        "name": "human6",
+        "age": "21"
     }
     
 ]
