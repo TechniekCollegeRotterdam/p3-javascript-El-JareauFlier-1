@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  width: 90vw;
+  margin: auto;
+  font-size: 5vw;
+  text-align: center;
+}
+
+.pokemons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 4vh auto;
+  width: 90vw;
+
+}
+
+.card {
+  background: linear-gradient(rgb(128, 0, 0) 40%, transparent 40%);
+  width: 15vw;
+  height: 15vw;
+  margin: 2vw;
+  text-align: center;
+  border-radius: 45%;
+  border: 2px solid rgb(128, 0, 0);
+  transition: 0.5s;
+}
+
+.card h1{
+  font-size: 1.5vw;
+  font-weight: 900;
+  padding-top: 1vh;
+}
+
+.card:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
