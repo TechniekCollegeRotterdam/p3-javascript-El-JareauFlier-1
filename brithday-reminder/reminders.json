@@ -1,0 +1,32 @@
+[
+    {
+        "img": "./img/profile1.jpg",
+        "name": "human1",
+        "age": "32"
+    },
+
+    {
+        "img": "./img/profile2.jpg",
+        "name": "human2",
+        "age": "12"
+    },
+
+    {
+        "img": "./img/profile3.jpg",
+        "name": "human3",
+        "age": "19"
+    },
+
+    {
+        "img": "./img/profile4.jpg",
+        "name": "human4",
+        "age": "25"
+    },
+
+    {
+        "img": "./img/profile5.jpg",
+        "name": "human5",
+        "age": "22"
+    }
+    
+]
