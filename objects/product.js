@@ -16,7 +16,7 @@ const product = {
 
 output.innerHTML = `
 <p> name: ${product.name}</p>
-<img> ${product.img}</img>
+<img src='${product.img}'></img>
 <p> description: ${product.description}</p>
 <p> price: ${product.price}</p>
 <p> expiry date ${product.date}</p>
