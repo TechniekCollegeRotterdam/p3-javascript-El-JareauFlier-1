@@ -1,0 +1,44 @@
+{
+  "registration": [
+    {
+      "id": "1",
+      "firstname": "El-jareau",
+      "lastname": "Flier",
+      "residence": "Rotterdam",
+      "phonenumber": "06 00000000",
+      "email": "9017738@student.zadkine.nl"
+    },
+    {
+      "id": "2",
+      "firstname": "sherida",
+      "fastname": "flier",
+      "residence": "rotterdam",
+      "phonenumber": "7107249012",
+      "email": "no-reply@gmail.com"
+    },
+    {
+      "firstname": "jarreth",
+      "lastname": "flier",
+      "residence": "rotterdam",
+      "phonenumber": "14120474",
+      "email": "no-reply@gmail.com",
+      "id": "SQt3yXH"
+    },
+    {
+      "firstname": "jeand",
+      "lastname": "flier",
+      "residence": "schiedam",
+      "phonenumber": "1381084",
+      "email": "no-reply@gmail.com",
+      "id": "Qdurekv"
+    },
+    {
+      "firstname": "isaac",
+      "lastname": "flier",
+      "residence": "schiebroek",
+      "phonenumber": "3123124124",
+      "email": "no-reply@gmail.com",
+      "id": "cEy5IT9"
+    }
+  ]
+}

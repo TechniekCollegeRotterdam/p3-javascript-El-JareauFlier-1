@@ -1,0 +1,93 @@
+body {
+  font-size: 62, 5%;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: block;
+  height: 60vh;
+  background-image: url("img/festival1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1vh 3vw;
+  height: 10vh;
+  background-color: none;
+}
+header nav a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 800;
+  font-size: 3vw;
+  font-family: cursive;
+  margin-right: 2vw;
+}
+header nav a:hover {
+  text-decoration: underline;
+}
+header nav button {
+  color: white;
+  font-size: 1.5vw;
+  background-color: rgb(43, 86, 123);
+  padding: 0.5rem;
+  border: 0 solid;
+  border-radius: 1rem;
+  transition: 0.5s;
+  cursor: pointer;
+}
+header nav button:hover {
+  background-color: rgb(33, 33, 74);
+  transform: scale(1.05);
+}
+
+main {
+  padding: 4vh 10vw;
+  background: rgb(255, 229, 197);
+}
+main section h1 {
+  font-size: 4vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  color: rgb(43, 86, 123);
+}
+main section p {
+  font-size: 1.8vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+main form {
+  margin: auto;
+}
+main form input[type=text],
+main form select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+main form h1 {
+  font-size: 3vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  color: rgb(43, 86, 123);
+}
+main .adminContainer {
+  width: 100%;
+}
+main .adminContainer table,
+main .adminContainer th,
+main .adminContainer td {
+  border: 0.1rem solid white;
+  text-align: center;
+}
+main .adminContainer tr:nth-child(even) {
+  background-color: rgba(128, 128, 128, 0.2235294118);
+}/*# sourceMappingURL=style.css.map */
